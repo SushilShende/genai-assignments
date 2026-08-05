@@ -1,3 +1,5 @@
+NOTE :: I don't have the license PDF version on mac book, hence sending my assignment in text format.
+
 1) Find 10 different model providers and their models released in last 12 months
 
 Details to collect:
@@ -84,6 +86,14 @@ When to Use: Requires more detail on specifications
 
 2) Read 2–3 articles about how transformer works?
 Goal to understand:
-(a) Self-attention mechanism	-------COMPLETED
-(b) Vector embedding		-------COMPLETED
-(c) Feed forward Nueral Network	-------COMPLETED
+(a) Self-attention mechanism	
+The self-attention mechanism is the core innovation behind modern Large Language Models (LLMs) like GPT, Claude, and Gemini. Introduced in the landmark 2017 paper "Attention Is All You Need" by Vaswani et al., it allows a model to weigh the importance of different words in a sequence when processing each word.
+
+(b) Vector embedding		
+Vector embedding is the process of converting words, sentences, images, or any data into lists of numbers (vectors) that capture their meaning in a mathematical space.
+
+(c) Feed forward Nueral Network	-
+A Feed-Forward Neural Network is the simplest and most fundamental type of artificial neural network, where information flows in one direction only — from input → hidden layers → output — with no loops or cycles.
+
+Core Idea is
+Data enters the network, gets transformed through a series of layers using weights, biases, and activation functions, and produces an output. There is no feedback hence the name "feed-forward."
